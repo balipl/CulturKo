@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sendbajtv1.0.Plugins", "Sendbajtv1.0.Plugins.csproj", "{CBD95CA8-C468-D596-FFC1-779C9A4677B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sendbajtv1.0", "Sendbajtv1.0.csproj", "{18F44BCC-EDB1-5556-AD32-DDDAFCF3E3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sendbajtv1.0.Editor.Plugins", "Sendbajtv1.0.Editor.Plugins.csproj", "{0905D1A0-F7E9-6523-E078-2CE32984E175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD95CA8-C468-D596-FFC1-779C9A4677B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD95CA8-C468-D596-FFC1-779C9A4677B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD95CA8-C468-D596-FFC1-779C9A4677B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD95CA8-C468-D596-FFC1-779C9A4677B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F44BCC-EDB1-5556-AD32-DDDAFCF3E3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F44BCC-EDB1-5556-AD32-DDDAFCF3E3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F44BCC-EDB1-5556-AD32-DDDAFCF3E3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F44BCC-EDB1-5556-AD32-DDDAFCF3E3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0905D1A0-F7E9-6523-E078-2CE32984E175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0905D1A0-F7E9-6523-E078-2CE32984E175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0905D1A0-F7E9-6523-E078-2CE32984E175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0905D1A0-F7E9-6523-E078-2CE32984E175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
